@@ -1,0 +1,18 @@
+/**
+ * More about TestNG
+ * 1. What are all the annotations ?
+ * 
+ * @BeforeSuite
+ * @AfterSuite
+ * 
+ * @BeforeTest
+ * @AfterTest
+ * 
+ * @BeforeClass
+ * @AfterClass
+ * 
+ * @BeforeMethod
+ * @AfterMethod
+ * 
+ * @Test
+ */

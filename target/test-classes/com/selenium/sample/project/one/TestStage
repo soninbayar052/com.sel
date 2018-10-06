@@ -1,0 +1,24 @@
+Test Home Page
+
+1. open the browser
+2. go to demo web site
+3. enter user name and password
+4. click login button
+
+Test Admin Page
+
+1. Click on time tab
+2. enter employee name
+3. click on view button
+4. click on add time sheet button
+5. clear the default time 
+6. enter the future date
+
+Test Time sheet page
+1. Click edit button
+2. Enter Project Name
+3. Enter the hours for weekdays
+4. click the add Row button
+5. Repeat step # 3
+6. Save button
+7. exit out the browser
